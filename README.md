@@ -4,9 +4,9 @@ Dapp university tutorial
 
 Be careful: 
 1. Please use command 
-
+```bash
    $npm install -g truffle 
-
+```
 rather than 
 
    $npm install --global truffle@5.1.39
